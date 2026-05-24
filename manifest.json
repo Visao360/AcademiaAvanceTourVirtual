@@ -37,8 +37,8 @@
   }
  ],
  "name": "Academia Avance",
+ "start_url": "index.htm?installed=true",
  "background_color": "#343433",
  "display": "fullscreen",
- "theme_color": "#343433",
- "start_url": "index.htm?installed=true"
+ "theme_color": "#343433"
 }
