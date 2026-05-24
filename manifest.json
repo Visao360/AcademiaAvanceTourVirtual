@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#343433",
- "theme_color": "#343433",
- "display": "fullscreen",
  "name": "Academia Avance",
+ "background_color": "#343433",
+ "display": "fullscreen",
+ "theme_color": "#343433",
  "start_url": "index.htm?installed=true"
 }
