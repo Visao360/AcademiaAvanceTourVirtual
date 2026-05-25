@@ -1,7 +1,6 @@
 {
- "theme_color": "#343433",
  "name": "Academia Avance",
- "start_url": "index.htm?installed=true",
+ "theme_color": "#343433",
  "background_color": "#343433",
  "display": "fullscreen",
  "icons": [
@@ -40,5 +39,6 @@
    "sizes": "64x64",
    "src": "misc/icon64.png"
   }
- ]
+ ],
+ "start_url": "index.htm?installed=true"
 }
